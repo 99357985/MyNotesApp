@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Notepad</string>
+
+    <string name="my_notes">My Notes</string>
+    <string name="search_here">Search here....</string>
+    <string name="clear">clear</string>
+    <string name="no_data">no_data</string>
+    <string name="add_note">Add Note</string>
+    <string name="choose_color">Choose Color</string>
+    <string name="some_text">Lorem Ipsum is simply dummy text of
+        the printing and typesetting industry. Lorem Ipsum has been
+        the industry\'s standard dummy text ever since the 1500s,
+        when an unknown printer took a galley of type and scrambled
+        it to make a type specimen book. It has survived not only five
+        centuries, but also the leap into electronic typesetting,
+        remaining essentially unchanged.
+    </string>
+    <string name="edited_on">Edited on: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_notes">no notes till now</string>
+    <string name="add_note_from_here">add note from here</string>
+    <string name="note_title">Note Title</string>
+</resources>
